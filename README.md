@@ -1,7 +1,7 @@
 # SOTS
 Secret of the slime Repo
 
-Group Members
+Group Members:
   Brandon (Head Designer),
   Gianni (*Lead Programmer*),
   Victoria (Asst. Programmer),
